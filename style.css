@@ -1,0 +1,67 @@
+body {
+    margin: 0em;
+  }
+
+#imag{
+    position: relative;
+    margin: 0;
+    background-image: url(imagenes/fondo/3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-right: 0em;
+    padding-left: 0em;
+  }
+
+  #logo h1{
+      position: relative;
+      font-size: 50px;
+      padding-top: -80%;
+      text-align: center;
+      color: white;
+  }
+
+  #logo{
+    padding-top: 0.50em;
+    padding-bottom: 0em;
+  }
+  
+  #logo img{
+    position: relative;
+    padding-left: 6em;
+    height: 200px;
+    width: auto;
+    z-index: 10;
+  }
+
+  #intro-2 {
+    padding-top: 0.1em;
+    padding-bottom: 0.1em;
+    margin-top: 1em;
+    margin-right: 22.5%;
+    margin-left: 22.5%;
+    background-color: rgba(0, 0, 0, 0.7);
+  }
+  
+
+  #intro-2 h1 {
+    margin-top: 0;
+    margin-bottom: 1em;
+    color: white;
+    text-align: center;
+  }
+
+  #intro-2 p{
+      color: white;
+      text-align: justify;
+      margin-left: 7%;
+      margin-right: 7%;
+  }
+
+  #portada {
+      padding-top: 7%;
+      text-align: center;
+  }
+  
+
+  
